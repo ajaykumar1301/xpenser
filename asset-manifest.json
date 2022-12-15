@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/xpenser/static/css/main.98f03fc2.chunk.css",
+    "main.js": "/xpenser/static/js/main.fca6c847.chunk.js",
+    "main.js.map": "/xpenser/static/js/main.fca6c847.chunk.js.map",
+    "runtime-main.js": "/xpenser/static/js/runtime-main.be30ba4c.js",
+    "runtime-main.js.map": "/xpenser/static/js/runtime-main.be30ba4c.js.map",
+    "static/css/2.58a45539.chunk.css": "/xpenser/static/css/2.58a45539.chunk.css",
+    "static/js/2.70429713.chunk.js": "/xpenser/static/js/2.70429713.chunk.js",
+    "static/js/2.70429713.chunk.js.map": "/xpenser/static/js/2.70429713.chunk.js.map",
+    "static/js/3.7b6ff306.chunk.js": "/xpenser/static/js/3.7b6ff306.chunk.js",
+    "static/js/3.7b6ff306.chunk.js.map": "/xpenser/static/js/3.7b6ff306.chunk.js.map",
+    "index.html": "/xpenser/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/xpenser/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.98f03fc2.chunk.css.map": "/xpenser/static/css/main.98f03fc2.chunk.css.map",
+    "static/js/2.70429713.chunk.js.LICENSE.txt": "/xpenser/static/js/2.70429713.chunk.js.LICENSE.txt",
+    "static/media/added-image.png": "/xpenser/static/media/added-image.94b293c9.png",
+    "static/media/education.png": "/xpenser/static/media/education.f21be753.png",
+    "static/media/empty.png": "/xpenser/static/media/empty.f575b5cb.png",
+    "static/media/food.png": "/xpenser/static/media/food.7bf88c6f.png",
+    "static/media/healthcare.png": "/xpenser/static/media/healthcare.d26b4326.png",
+    "static/media/shopping.png": "/xpenser/static/media/shopping.b248386d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be30ba4c.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.70429713.chunk.js",
+    "static/css/main.98f03fc2.chunk.css",
+    "static/js/main.fca6c847.chunk.js"
+  ]
+}
